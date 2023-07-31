@@ -27,7 +27,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<img align="right" src = "![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/ebd4071e-071f-4a08-a445-b3f73c2dea6e)" width="200" height="150" />
+<img align="right" src = "![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/ebd4071e-071f-4a08-a445-b3f73c2dea6e)" width="200" height="300" />
 <p align="left">I'm ... from ....Gurgaon, Haryana, India.<br><br>- 🔭 I’m currently a ... Student at BML Munjal University.<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I surf youtube, read novels.</p>
 
 
