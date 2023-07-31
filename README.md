@@ -36,7 +36,7 @@
 
 
 
-<img align="right" src = "![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/ebd4071e-071f-4a08-a445-b3f73c2dea6e)" />
+<img align="right" src = "![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/ebd4071e-071f-4a08-a445-b3f73c2dea6e)" width="400" />
 
 ###
 
