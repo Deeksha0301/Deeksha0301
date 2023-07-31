@@ -1,5 +1,6 @@
 
-![download](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/24ff0e81-f1a7-48e0-9daa-09815f871ec1)
+![download](http![Beige Feminine Personal LinkedIn Banner](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/606d0103-663a-45e0-aae2-a43d62b57caf)
+
 
 <h1 align="center">Hi 👋, I'm Deeksha Mandal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
