@@ -26,6 +26,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 <img align="right" src="https://github.com/Deeksha0301/Deeksha0301/blob/master/assets/92042650/ebd4071e-071f-4a08-a445-b3f73c2dea6e.gif" />
+
 ###
 <div style="display: flex; align-items: center;">
   
