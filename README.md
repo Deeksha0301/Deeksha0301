@@ -1,4 +1,4 @@
-<div align="center">
+![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/9358d557-87b2-4181-a371-58096564cb3a)<div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
@@ -33,6 +33,10 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+
+
+<img align="right" src = "![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/ebd4071e-071f-4a08-a445-b3f73c2dea6e)" />
 
 ###
 
