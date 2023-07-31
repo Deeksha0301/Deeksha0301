@@ -39,25 +39,25 @@
 
 <br>
   
-<img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="350" src="![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/332c6dba-915b-42b1-a059-9f3cd0200e0b)">
 
 <br>
-<p align="center" width="150px">I am currently a Third Year student at BML Munjal pursuing my B.Tech degree in Computer Science Engineering.</p>
-</p>
-<div style="display: flex; align-items: center;">
-  
-  
-  
-  <img align="right" src="![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/332c6dba-915b-42b1-a059-9f3cd0200e0b)"  />
- 
-
-  <p style="padding-left: 10px;">
+<p style="padding-left: 10px;">
     I'm ... from ....Gurgaon, Haryana, India.<br><br>
     - 🔭 I’m currently a ... Student at BML Munjal University.<br>
     - 📚 I'm currently learning ...<br>
     - ⚡ In my free time, I surf YouTube, read novels.
   </p>
-</div>
+
+
+  
+  
+  
+ 
+ 
+
+  
+
 
 
 
