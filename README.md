@@ -4,6 +4,7 @@
 
 ###
 
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -25,11 +26,11 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<img align="right" src="https://github.com/Deeksha0301/Deeksha0301/blob/master/assets/92042650/ebd4071e-071f-4a08-a445-b3f73c2dea6e.gif" />
+
 
 ###
 <div style="display: flex; align-items: center;">
-  
+  ![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/332c6dba-915b-42b1-a059-9f3cd0200e0b)
   <p style="padding-left: 10px;">
     I'm ... from ....Gurgaon, Haryana, India.<br><br>
     - 🔭 I’m currently a ... Student at BML Munjal University.<br>
