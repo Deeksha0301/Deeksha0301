@@ -32,6 +32,10 @@
 <div style="display: flex; align-items: center;">
   
   ![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/332c6dba-915b-42b1-a059-9f3cd0200e0b)
+  
+  <img align="right" src="https://github.com/Deeksha0301/Deeksha0301/raw/master/assets/92042650/332c6dba-915b-42b1-a059-9f3cd0200e0b.gif" width="280" height="250" />
+ 
+
   <p style="padding-left: 10px;">
     I'm ... from ....Gurgaon, Haryana, India.<br><br>
     - 🔭 I’m currently a ... Student at BML Munjal University.<br>
