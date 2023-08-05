@@ -24,8 +24,8 @@
 <h1 align="center">Hi 👋, I'm Deeksha Mandal</h1>
 
 ###
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=200&color=B28CF7&center=true&width=435&lines=Hello+World!!;I'M+A+FRONTEND+DEVELOPER;TECH+ENTHUSIAST;CSE+UNDERGRAD" alt="Typing SVG" /></a>
 
 
 ###
@@ -35,15 +35,10 @@
 
 ###
 
-<br>
-  
-<img align="right" alt="Coding" width="350" src="![code](https://github.com/Deeksha0301/Deeksha0301/assets/92042650/332c6dba-915b-42b1-a059-9f3cd0200e0b)">
-
-<br>
 <p style="padding-left: 10px;">
     I'm ... from ....Gurgaon, Haryana, India.<br><br>
     - 🔭 I’m currently a ... Student at BML Munjal University.<br>
-    - 📚 I'm currently learning ...<br>
+    - 📚 I'm currently learning ...advanced JavaScript.<br>
     - ⚡ In my free time, I surf YouTube, read novels.
   </p>
 
