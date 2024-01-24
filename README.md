@@ -1,6 +1,7 @@
 
 
-# Hi 👋, I'm Deeksha Mandal
+<h1 align="center">Hi 👋, I'm Deeksha Mandal</h1>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
