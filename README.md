@@ -1,11 +1,4 @@
-<div align="center">
 
-
-<br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Deeksha0301.Deeksha0301&"  />
-
-</div>
 
 # Hi 👋, I'm Deeksha Mandal
 
@@ -53,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
+<div align="center">
 
 ## 📬 Connect with Me
 
@@ -71,6 +65,12 @@
 
 <br>
 <br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Deeksha0301.Deeksha0301&"  />
+
+</div>
+
+
 
 
 ## 🔥 My Stats
