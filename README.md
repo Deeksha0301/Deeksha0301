@@ -1,13 +1,12 @@
 
-
 <h1 align="center">Hi 👋, I'm Deeksha Mandal</h1>
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=200&color=B28CF7&center=true&width=435&lines=Hello+World!!;I'M+A+FRONTEND+DEVELOPER;TECH+ENTHUSIAST;CSE+UNDERGRAD" alt="Typing SVG" />
   </a>
 </p>
+
 
 ## 👩‍💻 About Me
 
