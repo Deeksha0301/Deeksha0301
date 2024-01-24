@@ -39,9 +39,8 @@
 ###
 
 <p style="padding-left: 10px;">
-    I'm ... from ....Gurgaon, Haryana, India.<br><br>
-    - 🔭 I’m currently a ... Student at BML Munjal University.<br>
-    - 📚 I'm currently learning ...advanced JavaScript.<br>
+    I'm from Gurgaon, Haryana, India.<br><br>
+    - 🔭 I’m currently a final year Student at BML Munjal University.<br>
     - ⚡ In my free time, I surf YouTube, read novels.
   </p>
 
